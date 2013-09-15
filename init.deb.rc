@@ -473,3 +473,5 @@ on property:init.svc.surfaceflinger=running
 
 on property:init.svc.surfaceflinger=stopped
     stop ppd
+
+import init.flo.cm.rc
